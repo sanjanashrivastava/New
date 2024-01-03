@@ -2,10 +2,8 @@
 
 #Heading
 ---
-**Bold** 
-__Bold__  
-*Italic* 
-_Italic_  
+**Bold**  
+*Italic*  
 ~~strikethrough~~
 ___
 
@@ -22,7 +20,6 @@ list 2
 2. two
 3. three
 5. four
-7. five
 
 
 
